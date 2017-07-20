@@ -2,11 +2,11 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://github.com"
            review="review.lineageos.org" />
 
   <remote name="viper"
-           fetch="https://github.com/ViperOS-Project"
+           fetch="https://gitlab.com/ViperOS-Project"
            revision="nougat" />
 
   <remote name="viper-devices"
