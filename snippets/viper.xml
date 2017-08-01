@@ -8,6 +8,7 @@
     <project path="development" name="android_development" remote="viper" />
     <project path="manifest" name="viper_manifest" remote="viper" />
     <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="viper" />
+    <project path="device/qcom/common" name="android_device_qcom_common" remote="viper" />
 
     <!-- Frameworks -->
     <project path="frameworks/base" name="android_frameworks_base" remote="viper" />
