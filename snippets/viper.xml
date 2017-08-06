@@ -31,7 +31,6 @@
     <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="viper" />
     <project path="packages/apps/Venom" name="android_packages_apps_Venom" remote="viper" />
     <project path="packages/apps/ViperOTA" name="android_packages_apps_ViperOTA" remote="viper" />
-    <project path="packages/apps/VPapers" name="android_packages_apps_VPapers" remote="viper" />
     <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="viper" />
     <project path="packages/apps/MusicFX" name="android_packages_apps_MusicFX" remote="viper" />
     <project path="packages/apps/DSPlibs" name="android_packages_apps_DSPlibs" remote="viper" />
@@ -56,5 +55,9 @@
     <!-- Vendor -->
     <project path="vendor/cmsdk" name="android_vendor_cmsdk" remote="viper" />
     <project path="vendor/viper" name="android_vendor_viper" remote="viper" />
+
+    <!-- Reference projects -->
+    <project path="crowdin" name="crowdin" remote="viper" />
+    <project path="packages/apps/VPapers" name="android_packages_apps_VPapers" remote="viper" />
 
 </manifest>
