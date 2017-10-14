@@ -6,11 +6,7 @@
            review="review.lineageos.org" />
 
   <remote name="viper"
-           fetch="ssh://git@gitlab.com/ViperOS-Project"
-           revision="nougat" />
-
-  <remote name="viper-devices"
-           fetch="https://github.com/ViperOS-Devices"
+           fetch="https://gitlab.com/ViperOS-N"
            revision="nougat" />
 
   <remote  name="private"
@@ -26,7 +22,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <!-- AOSP Projects -->
+  <!-- AOSP And LineageOS Projects -->
 
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
   <project path="build/kati" name="LineageOS/android_build_kati" groups="pdk,tradefed" />
