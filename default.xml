@@ -6,7 +6,7 @@
            review="review.lineageos.org" />
 
   <remote name="viper"
-           fetch="https://gitlab.com/ViperOS-N"
+           fetch="https://gitlab.com/AOSVP"
            revision="nougat" />
 
   <remote  name="private"
