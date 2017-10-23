@@ -13,7 +13,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://gitlab.com/AOSVP/viper_manifest -b nougat
+    $ repo init -u https://github.com/Viper-Project/viper_manifest -b nougat
 
 Sync the repository:
 
