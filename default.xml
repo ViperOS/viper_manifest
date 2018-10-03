@@ -5,6 +5,10 @@
            fetch="https://github.com"
            review="review.lineageos.org" />
 
+  <remote name="omni"
+          fetch="https://github.com/omnirom"
+          revision="android-8.1" />
+
   <remote name="viper"
            fetch="https://gitlab.com/ViperOS-Oreo/"
            revision="oreo-mr1" />
@@ -555,6 +559,7 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" remote="aosp" />
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" remote="aosp" />
+  <project path="packages/services/OmniJaws" name="android_packages_services_OmniJaws" remote="omni" />  
 
   <include name="snippets/lineage.xml" />
   <include name="snippets/viper.xml" />
