@@ -36,7 +36,7 @@
   <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="viper" />
 
   <project path="vendor/viper" name="android_vendor_viper" remote="viper" />
-
+  <project path="vendor/viper/devices-ota" name="DevicesOTA" remote="viper" />
   <project path="viper/manifest" name="viper_manifest" remote="viper" />
 
 </manifest>
