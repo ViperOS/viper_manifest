@@ -30,6 +30,7 @@
   <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="viper" />
 
   <!-- Packages -->
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" groups="pdk-fs" remote="viper" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" groups="pdk-fs" remote="viper" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="viper" />
   <project path="packages/apps/Venom" name="android_packages_apps_Venom" groups="pdk-fs" remote="viper" />
