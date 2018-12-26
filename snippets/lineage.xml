@@ -74,6 +74,7 @@
   <project path="packages/apps/LockClock" name="LineageOS/android_packages_apps_LockClock" />
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" />
+  <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
 
   <!-- System -->
   <project path="system/tools/dtbtool" name="LineageOS/android_system_tools_dtbtool" />
