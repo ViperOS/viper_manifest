@@ -49,7 +49,7 @@
   <project path="system/vold" name="android_system_vold" groups="pdk" remote="viper" />
 
   <!-- Vendor -->
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="viper" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" groups="qcom,pdk-qcom"  remote="viper" />
   <project path="vendor/viper" name="android_vendor_viper" remote="viper" />
   <project path="vendor/themes" name="viper_vendor_themes" remote="viper" />
   <project path="viper/manifest" name="viper_manifest" remote="viper" />
