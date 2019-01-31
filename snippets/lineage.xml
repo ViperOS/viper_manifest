@@ -4,7 +4,6 @@
   <!-- LineageOS additions -->
 
   <!-- Device -->
-  <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" />
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" />
   <project path="device/qcom/sepolicy-legacy" name="LineageOS/android_device_qcom_sepolicy-legacy" groups="qcom,pdk-qcom" />
 
