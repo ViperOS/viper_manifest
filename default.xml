@@ -6,7 +6,7 @@
            review="review.lineageos.org" />
 
   <remote name="viper"
-           fetch="https://gitlab.com/ViperOS-Oreo/"
+           fetch="https://github.com/ViperOS/"
            revision="pie" />
 
   <remote  name="private"
