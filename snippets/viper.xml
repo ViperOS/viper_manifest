@@ -17,6 +17,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
+  <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="viper" />
 
   <!-- Bionic -->
   <project path="bionic" name="android_bionic" groups="pdk" remote="viper" />
