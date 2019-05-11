@@ -44,6 +44,7 @@
   <project path="packages/apps/Venom" name="android_packages_apps_Venom" groups="pdk-fs" remote="viper" />
   <project path="packages/apps/Pulse" name="android_packages_apps_Pulse" groups="pdk-fs" remote="viper" />
   <project path="packages/providers/WeatherClient" name="packages_providers_WeatherClient" remote="viper" />
+  <project path="packages/apps/ThermalController" name="android_packages_apps_ThermalController" remote="viper" />
 
   <!-- SDK -->
   <project path="lineage-sdk" name="android_viper-sdk" remote="viper" />
