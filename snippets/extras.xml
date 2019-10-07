@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <project path="vendor/viper" name="android_vendor_viper" remote="viper" />
+
 </manifest>
