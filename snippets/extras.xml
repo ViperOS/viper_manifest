@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/custom/sepolicy" name="android_device_custom_sepolicy" remote="viper" />
+  <project path="device/viper/sepolicy" name="android_device_viper_sepolicy" remote="viper" />
   <project path="device/lineage/atv" name="android_device_lineage_atv" remote="los" />
   <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy" groups="qcom,pdk-qcom" remote="viper" revision="ten-legacy-um" />
   <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy" groups="qcom,pdk-qcom" remote="viper" revision="ten-legacy" />
