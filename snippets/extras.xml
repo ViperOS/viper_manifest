@@ -106,7 +106,7 @@
   <project path="packages/apps/AudioFX" name="android_packages_apps_AudioFX" remote="los" />
   <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="los" />
   <project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="los" />
-  <project path="packages/apps/LineageParts" name="android_packages_apps_ViperParts" remote="viper" />
+  <project path="packages/apps/ViperParts" name="android_packages_apps_ViperParts" remote="viper" />
   <project path="packages/apps/Profiles" name="android_packages_apps_Profiles" remote="los" />
   <project path="packages/apps/Recorder" name="android_packages_apps_Recorder" remote="los" />
   <project path="packages/apps/Snap" name="android_packages_apps_Snap" remote="los" />
